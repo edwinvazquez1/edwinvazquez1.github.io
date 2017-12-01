@@ -2,7 +2,7 @@
 
 This is my Camera Effects Project.
 
-![Edwin](picture filename?raw=true "Optional Title")
+![Edwin](https://github.com/edwinvazquez1/edwinvazquez1.github.io/blob/master/Edwin.PNG?raw=true "Optional Title")
 
 ***
 
