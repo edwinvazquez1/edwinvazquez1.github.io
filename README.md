@@ -2,6 +2,10 @@
 
 This is my Camera Effects Project.
 
-![picture_title](picture filename?raw=true "Optional Title")
+![Edwin](picture filename?raw=true "Optional Title")
 
 ***
+
+Camera Effects
+
+this is my Camera Effects Project
