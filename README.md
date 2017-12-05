@@ -1,4 +1,12 @@
-### Camera Effects
+### 360
+
+This is my 360 project
+
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="//360.vizor.io/embed/v/wk3j7" ></script>
+
+***
+
+Camera Effects
 
 This is my Camera Effects Project.
 
@@ -6,6 +14,3 @@ This is my Camera Effects Project.
 
 ***
 
-Camera Effects
-
-this is my Camera Effects Project
